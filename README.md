@@ -3,4 +3,6 @@
 ##效果见图
 ![image3](https://github.com/cnkedao/QQrobot/raw/master/pic/1.jpg)    
 
-[详细说明见本文](http://t.cn/RGRPbzl)
+[详细说明见本文](http://t.cn/RGRPbzl)    
+
+![image2](https://github.com/cnkedao/QQrobot/raw/master/pic/2.jpg) 
